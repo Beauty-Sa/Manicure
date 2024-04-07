@@ -37,6 +37,10 @@ footer{
 .icones:hover{
     height: 50px;
 }
+.mensagem{
+    height: 100px;
+    width: 190px;
+}
 .botaoenv:hover{
     background-color: rgb(92, 255, 155);
     color: black;
