@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(218, 101, 218);
+    text-align: center;
+}
+img{
+    height: 350px;
+    margin-top: 10px;
+}
+.voltar{
+    height: 35px;
+    margin-right: 96%;
+    margin-top: -7px;
+}
+.voltar:hover{
+    height: 43px;
+    margin-right: 95%;
+    margin-top: -7px;
+}
+main{
+    background: rgb(255, 71, 151);
+    border: 1px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+}
+footer{
+    background: rgb(255, 71, 151);
+    border: 1px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+}
+.icones{
+    position: relative;
+    height: 40px;
+}
+.icones:hover{
+    height: 50px;
+}
+.botaoenv:hover{
+    background-color: rgb(92, 255, 155);
+    color: black;
+    width: 60px;
+    height: 25px;
+    border: none;
+}
